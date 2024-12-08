@@ -28,7 +28,7 @@ const Navbar = () => {
                     <img src={lock} />
                     Login
                 </button>
-                <button className='px-8 py-3 rounded-md bg-[#20B486] text-white font-bold'>Sign Up For Free</button>
+                <button className='px-8 py-3 rounded-md bg-[#20B486] text-white font-bold'>Sign Up</button>
             </div>
 
             <div className='md:hidden'  onClick={handleClick}>
@@ -52,7 +52,7 @@ const Navbar = () => {
                          <img src={lock} />
                          Login
                         </button>
-                        <button className='px-8 py-5 rounded-md bg-[#20B486] text-white font-bold'>Sign Up For Free</button>
+                        <button className='px-8 py-5 rounded-md bg-[#20B486] text-white font-bold'>Sign Up</button>
                     </div>
             </ul>
         </div>
