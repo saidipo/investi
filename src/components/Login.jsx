@@ -1,5 +1,5 @@
 import { useState } from "react";
-import investi from "../assets/investi.jpg";
+import loginImage from "../assets/loginimage.jpg";
 import google from "../assets/google.png";
 import logo from "../assets/logo2020.svg";
 
@@ -87,7 +87,7 @@ const Login = () => {
           </form>
         </div>
         <div className="w-2/3 border">
-          <img src={investi} />
+          <img src={loginImage} />
         </div>
       </div>
     </div>
