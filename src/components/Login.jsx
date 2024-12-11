@@ -17,7 +17,7 @@ const Login = () => {
   const [password, setPassword] = useState("");
 
   return (
-    <div className="flex flex-col h-screen">
+    <div className="flex flex-col">
       <div className="flex-grow flex justify-center items-center">
         
         <div className="relative w-1/3  flex flex-col gap-3 py-20 border">
