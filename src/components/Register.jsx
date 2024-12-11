@@ -19,7 +19,7 @@ const Register = () => {
   const [password, setPassword] = useState("");
 
   return (
-    <div className="flex flex-col h-screen">
+    <div className="flex flex-col">
       <div className="flex-grow flex justify-center items-center">
         <div className="relative w-1/3  flex flex-col gap-3 py-10 border">
           <img className="absolute w-24 top-0" src={logo} />
