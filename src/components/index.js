@@ -7,7 +7,8 @@ import Categories from "./Categories";
 import Feedback from "./Feedback";
 import CTA from "./CTA";
 import Footer from "./Footer";
+import About from "./about";
 
 
 
-export {Navbar,Hero, Companies,Courses,Achievement,Categories,Feedback,CTA,Footer}
+export {Navbar,Hero, Companies,Courses,Achievement,Categories,Feedback,CTA,Footer,About}
